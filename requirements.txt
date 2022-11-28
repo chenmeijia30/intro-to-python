@@ -1,0 +1,10 @@
+fastparquet
+geopandas
+jupyter
+matplotlib
+pandas
+sqlalchemy
+matplotlib
+requests
+beautifulsoup4
+lxml
