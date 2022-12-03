@@ -15,3 +15,8 @@ pip install -r requirements.txt
 ## Usage
 
 All codes are in the [Project.ipynb](Project.ipynb) file. You can run the code after installing the required libraries.
+
+## Division of Labor
+
+Chenmeijia is responsible for part 1 and part 2 and a part of extra credit. She add 17 commits and 1603 lines of code and removed 556 lines of code.
+Shang
