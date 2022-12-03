@@ -14,4 +14,4 @@ pip install -r requirements.txt
 
 ## Usage
 
-All codes are in the [Project.ipynb file](Project.ipynb). You can run the code after installing the required libraries.
+All codes are in the [Project.ipynb](Project.ipynb) file. You can run the code after installing the required libraries.
