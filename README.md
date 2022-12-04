@@ -1,4 +1,6 @@
-# Final Project for Intro to Python
+# Final Project for Group 25 for IEOR4501
+
+## UNIs List【mc5266,sj3213】
 
 ## Introduction
 
@@ -22,6 +24,10 @@ pip install -r requirements.txt
 ## Usage
 
 All codes are in the [Project.ipynb](Project.ipynb) file. You can run the code after installing the required libraries.
+
+## The Heatmap for Visualization 4
+
+![heatmap](heatmap.jpg)
 
 ## Division of Labor
 
