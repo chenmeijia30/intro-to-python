@@ -11,3 +11,4 @@ lxml
 numpy
 seaborn
 scipy
+tqdm
