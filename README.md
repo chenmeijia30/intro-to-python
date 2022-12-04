@@ -12,6 +12,13 @@ conda activate trips
 pip install -r requirements.txt
 ```
 
+## Data
+
+- Yellow Taxi trip data can be programmatically downloaded.
+- Uber sample data should be manually put under the root directory of the project.
+- Weather data should be manually put under the root directory of the project.
+- Taxi_zone.zip should be manually put under the root directory of the project.
+
 ## Usage
 
 All codes are in the [Project.ipynb](Project.ipynb) file. You can run the code after installing the required libraries.
@@ -20,3 +27,5 @@ All codes are in the [Project.ipynb](Project.ipynb) file. You can run the code a
 
 Chenmeijia is responsible for part 1,2 and a part of extra credit.
 Shangshujin is responsible for part 3,4 and a part of extra credit.
+
+Git statistics are problematic because git does not accurately count the increase and decrease of jupyter notebook, especially when it counts cell output. The actual number of lines added by the two team members was basically equal.
